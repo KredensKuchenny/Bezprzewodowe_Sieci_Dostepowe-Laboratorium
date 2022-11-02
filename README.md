@@ -5,4 +5,4 @@ Rozważmy transmisję sygnału radiowego o częstotliwości f = 3GHz w hipotetyc
 <center>
 <img width="1342" alt="Zrzut ekranu 2022-11-2 o 20 00 39" src="https://user-images.githubusercontent.com/61777542/199578475-8b1b5a13-31ef-4cb8-9955-ae194102a826.png">
 </center>
-<i>*do obliczenia długości ścieżek wykorzystujemy pitagorasa</i>
+<i>*do obliczenia długości ścieżek wykorzystujemy twierdzenie pitagorasa</i>
